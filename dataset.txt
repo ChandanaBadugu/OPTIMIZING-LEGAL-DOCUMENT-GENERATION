@@ -1,0 +1,2 @@
+datasset=> https://huggingface.co/datasets/Mukesh555/indian_lawyer_dataset
+model => https://huggingface.co/Mukesh555/Llama-2-7b-indian_lawyer_chat-finetune
